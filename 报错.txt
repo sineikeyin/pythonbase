@@ -57,7 +57,4 @@ KeyboardInterrupt（键盘中断）:
     # 执行这段代码后，按下Ctrl+C将会中断程序执行
 
     
-hello world
-print语句需要加上括号
-hello world
-print语句需要加上括号111
+
